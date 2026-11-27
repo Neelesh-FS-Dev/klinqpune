@@ -21,7 +21,11 @@ Lighthouse 12.8 was run on the production build (`vite preview`, port 4790). Res
 
 **SEO 66 is intentional.** The site is `noindex` until publication is authorised, so Lighthouse's "Page is blocked from indexing" fails. It will pass once that is removed.
 
-**Mobile LCP is the open problem.** The LCP element is the hero photograph. Its file is fetched at 0.02 s, so the network is not the cause. The delay is JavaScript: about 414 KB raw (index plus `motion`, roughly 140 KB gzip) must run before React paints the hero. GSAP and Lenis are in the first load because the home page imports them directly. Splitting them out of first paint is the likely fix. It has not been done.
+**Mobile LCP: simulated versus measured.** The default mobile run uses Lighthouse's simulated throttling, which reports LCP 5.0–5.2 s. The trace in the same run shows the hero photograph requested at 0.01 s and its LCP sub-parts summing to about 90 ms, so the simulator's critical-path model is inflating the number. A DevTools-throttled run (`--throttling-method=devtools`, measured rather than simulated) gives **performance 96 and LCP 2.2 s** on the same build, under the 2.5 s target.
+
+GSAP and Lenis now load after the first commit: the entry no longer preloads the `motion` chunk. The simulated run did not change (5.0 s before, 5.2 s after), and there is no measured run from before the split to compare against. Treat the split as a structural improvement; the measured LCP above is the number to rely on.
+
+Remaining simulated-mobile opportunities are listed below. Most are in the simulated run only.
 
 Changes made during the audit:
 - Preloaded the hero image in `index.html` (it did not move mobile LCP, but makes the request start before the bundle).
