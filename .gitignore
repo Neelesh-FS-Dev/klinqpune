@@ -1,0 +1,8 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.DS_Store
+
+# Original Instagram media: third-party content, not for republication without permission.
+assets/instagram/
