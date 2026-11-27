@@ -6,3 +6,4 @@ playwright-report/
 
 # Original Instagram media: third-party content, not for republication without permission.
 assets/instagram/
+.vercel
