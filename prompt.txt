@@ -1,0 +1,4136 @@
+# KLINQ PUNE — THE NIGHT IS YOURS
+## Award-Quality Lifestyle, Dining & Rooftop Hospitality Website
+### MotionSites · Interactive 3D · Cinematic Storytelling · GSAP · Lenis · React Three Fiber
+
+---
+
+# 01. ROLE AND RESPONSIBILITY
+
+Act as a multidisciplinary digital production studio consisting of:
+
+- Award-winning creative director.
+- Luxury hospitality brand strategist.
+- Senior digital art director.
+- Editorial and lifestyle designer.
+- Luxury beverage campaign designer.
+- Cinematic motion specialist.
+- 3D product visualization engineer.
+- Three.js and React Three Fiber specialist.
+- GSAP animation engineer.
+- Senior React and TypeScript developer.
+- Conversion-focused UX designer.
+- Frontend performance engineer.
+- Accessibility specialist.
+- Local SEO specialist.
+- Quality assurance engineer.
+
+Your responsibility is to research, design, develop, optimize and test a complete premium website for KLINQ — Cocktails & Cuisine, Pune.
+
+This is an independent creative website proposal by Codevirel Studio.
+
+The website must combine premium hospitality, signature beverages, contemporary cuisine, rooftop experiences, live entertainment, social celebrations and exceptional visual storytelling.
+
+Do not create another generic restaurant website.
+
+Do not simply assemble fashionable UI components.
+
+Do not stop after planning.
+
+Execute the complete implementation and inspect the actual browser output.
+
+---
+
+# 02. BUSINESS INFORMATION
+
+Business name:
+
+KLINQ — Cocktails & Cuisine.
+
+Instagram:
+
+https://www.instagram.com/klinqpune/
+
+Published Instagram positioning:
+
+Savor the luxury of fine dining.
+
+Creative cuisine & signature cocktails in a stylish setting.
+
+Address:
+
+5th Floor, Town Square, Mhada Colony, New Airport Road, Near Dorabjee's, Viman Nagar, Pune, Maharashtra, India — 411014.
+
+Published primary telephone:
+
++91 91122 12057
+
+Additional published telephone:
+
++91 91122 12075
+
+Published operating hours:
+
+12:30 PM to 1:00 AM.
+
+Verify these hours before launch.
+
+Published experiences include:
+
+- Contemporary dining.
+- Signature cocktails.
+- Mocktails.
+- Multicuisine food.
+- Rooftop dining.
+- Indoor dining.
+- Outdoor seating.
+- Live music.
+- Social gatherings.
+- Special events.
+
+Published cuisine categories include:
+
+- North Indian.
+- Asian.
+- European.
+- Continental.
+- Italian.
+- Lebanese.
+
+Do not present all categories as currently available without menu verification.
+
+Reservation sources:
+
+https://www.district.in/dining/pune/klinq-cocktails-cuisine-viman-nagar
+
+https://www.zomato.com/pune/klinq-cocktails-cuisine-viman-nagar/book
+
+https://www.swiggy.com/restaurants/pune/viman-nagar/klinq-975056/dineout
+
+Additional business research:
+
+https://www.urbanly.in/pune/food/catch-the-best-sunsets-this-new-boho-rooftop-restaurant-in-pune/
+
+Verify that all contact information and booking destinations remain operational.
+
+Do not invent business information.
+
+---
+
+# 03. INSTAGRAM PDF ANALYSIS
+
+Inspect all three pages of the supplied Instagram PDF.
+
+Render each page visually.
+
+Do not rely exclusively on text extraction.
+
+Page 1 includes:
+
+- Original green KLINQ logo.
+- Green and gold Instagram highlight icons.
+- Weekend event promotions.
+- Celebrations.
+- Warm architectural interiors.
+- Dramatic cocktail photography.
+- Beverage preparation.
+- Faces of KLINQ campaigns.
+- Pizza photography.
+- Chef preparation.
+- Lifestyle photography.
+- Amber and orange lighting.
+- Contemporary restaurant atmosphere.
+
+Page 2 includes:
+
+- Extensive culinary photography.
+- Social dining.
+- Bar seating.
+- Botanical interior decorations.
+- Group gatherings.
+- Kitchen preparation.
+- Artistic beverage presentations.
+- Sharing plates.
+- Chef portraits.
+- Warm wood materials.
+- Emerald surfaces.
+- Dragon-themed decorative artwork.
+- Lifestyle and celebration imagery.
+
+Page 3 includes:
+
+- Sculptural cocktail photography.
+- Floating or layered glass compositions.
+- Bartender imagery.
+- Chef preparation.
+- Contemporary food plating.
+- Outdoor seating.
+- Daylight rooftop photography.
+- Social media campaigns.
+- Colourful beverages.
+- Team-related content.
+
+Analyze original media corresponding to these visual references.
+
+Identify the highest-quality photographs and videos.
+
+Do not use Instagram interface screenshots as final website assets.
+
+Preserve the authentic KLINQ visual identity.
+
+---
+
+# 04. BUSINESS INTELLIGENCE
+
+Research KLINQ independently through legitimate public sources.
+
+Verify:
+
+- Official business name.
+- Current operational status.
+- Exact address.
+- Reservation numbers.
+- Opening hours.
+- Official website, if available.
+- Current food menu.
+- Current bar menu.
+- Available dietary options.
+- Rooftop dining.
+- Indoor and outdoor seating.
+- Live entertainment.
+- Event booking possibilities.
+- Private celebrations.
+- Current social media profiles.
+
+Inspect District, Zomato and Swiggy Dineout listings.
+
+Investigate the published food and bar menu images.
+
+Do not assume third-party menu data remains current.
+
+Distinguish:
+
+1. Officially published information.
+2. Third-party listed information.
+3. Observed visual evidence.
+4. Proposed creative copy.
+5. Missing information.
+
+Create BUSINESS_RESEARCH.md.
+
+Record exact sources and retrieval dates.
+
+Do not fabricate:
+
+- Awards.
+- Customer counts.
+- Ratings.
+- Restaurant capacity.
+- Chef names.
+- Event packages.
+- Event dates.
+- Prices.
+- Menu ingredients.
+- Reservation availability.
+
+---
+
+# 05. CORE CREATIVE CONCEPT
+
+## THE NIGHT IS YOURS
+
+KLINQ should not be positioned merely as somewhere to eat.
+
+Its digital experience should communicate the variety of an evening spent dining, socializing and celebrating in a stylish rooftop environment.
+
+The website should follow an emotional progression:
+
+The invitation.
+
+The arrival.
+
+The first pour.
+
+The food.
+
+The company.
+
+The atmosphere.
+
+The celebration.
+
+The memory.
+
+The primary campaign headline is a proposed creative concept:
+
+The night is yours.
+
+Additional proposed headlines:
+
+An evening, elevated.
+
+Come for the food. Stay for the moments.
+
+From golden hour to after hours.
+
+Every evening has a story.
+
+Make it a KLINQ kind of evening.
+
+Use these selectively.
+
+Avoid repetitive luxury marketing clichés.
+
+The actual published brand positioning remains the factual foundation.
+
+---
+
+# 06. CREATIVE DIFFERENTIATION
+
+This website must be visually different from previous Codevirel Studio hospitality projects.
+
+EVO:
+
+Food-led 3D ingredient transformation.
+
+ALT BY SYAH:
+
+Architectural threshold and cinematic culinary storytelling.
+
+Farro:
+
+Restrained culinary editorial direction.
+
+Pausa:
+
+Slow European café lifestyle.
+
+People & Co:
+
+Architectural hospitality.
+
+KAMARI:
+
+Coastal Mediterranean experience.
+
+KLINQ must instead focus on:
+
+- Social luxury.
+- Rooftop dining.
+- Golden-hour-to-night progression.
+- Dimensional glass imagery.
+- Contemporary nightlife.
+- Human-centred lifestyle photography.
+- Botanical interiors.
+- Event-driven editorial design.
+- Warm atmospheric lighting.
+- Sophisticated but energetic visual storytelling.
+
+Do not reuse previous hero layouts, footer layouts, animation sequences or section compositions.
+
+---
+
+# 07. THREE CREATIVE DIRECTIONS
+
+Explore three directions.
+
+Direction A — After Hours
+
+Midnight emerald surfaces.
+
+Warm lighting.
+
+Editorial typography.
+
+Dining-to-nightlife progression.
+
+Cinematic venue photography.
+
+Direction B — The Art of the Pour
+
+Dimensional glasswork.
+
+Liquid movement.
+
+Refraction.
+
+Ice.
+
+Controlled studio lighting.
+
+Luxury beverage advertising.
+
+Direction C — The Social Edition
+
+Lifestyle photography.
+
+Faces of KLINQ.
+
+Contemporary magazine compositions.
+
+Events.
+
+Celebrations.
+
+People.
+
+Recommended final direction:
+
+Use After Hours as the main narrative.
+
+Use The Art of the Pour for one flagship dimensional experience.
+
+Use The Social Edition for human-centred content and events.
+
+Combine these into one cohesive identity.
+
+Create DESIGN_DIRECTION.md with the selected concept and reasoning.
+
+---
+
+# 08. DEEP REFERENCE RESEARCH
+
+Before coding, research actual websites, case studies, motion demonstrations and components.
+
+Use available browser tools and MCP capabilities.
+
+For every reference examine:
+
+- Hero composition.
+- Navigation.
+- Typography.
+- Visual hierarchy.
+- Colour.
+- Editorial layout.
+- Media treatment.
+- 3D quality.
+- Camera movement.
+- Material appearance.
+- Scroll progression.
+- Interactive behaviour.
+- Mobile adaptation.
+- Conversion experience.
+- Loading behaviour.
+- Accessibility.
+
+Capture reference screenshots where available and permitted.
+
+Do not claim inaccessible websites were inspected.
+
+Do not copy full proprietary designs, assets or implementations.
+
+Research principles and create original adaptations.
+
+---
+
+# 09. MOTIONSITES.AI — PRIMARY MOTION PLATFORM
+
+Research:
+
+https://motionsites.ai/
+
+https://www.motionsites.ai/academy
+
+https://studio.motionsites.ai/
+
+https://motionsites.org/motion
+
+Inspect the currently accessible design libraries.
+
+Research these technical workflows:
+
+https://motionsites.ai/lesson/build-3d-scroll-animated-website-with-ai
+
+https://www.motionsites.ai/lesson/build-scroll-animated-website-with-ai
+
+Study:
+
+- Real-time 3D object presentations.
+- GLB loading.
+- Multi-view asset generation.
+- Scroll-controlled cameras.
+- Image sequences.
+- Scroll-scrubbed videos.
+- Rendering and tone mapping.
+- Progressive asset loading.
+- Separating editable typography from rendered media.
+- Pinned visual storytelling.
+- Responsive animation alternatives.
+
+Search specifically for:
+
+- Luxury beverage websites.
+- Floating glass.
+- Liquid pouring.
+- Glass refraction.
+- Product assembly.
+- Cocktail imagery.
+- Fragrance websites.
+- Golden-hour scenes.
+- Day-to-night transitions.
+- Cinematic product reveals.
+- Lifestyle editorial websites.
+- Interactive photography.
+- Social club websites.
+- Event landing pages.
+- Rooftop hospitality.
+- Reflective surfaces.
+- Botanical visual environments.
+
+Select at least three specific relevant MotionSites examples where accessible.
+
+Record exact example URLs and their implementation principles.
+
+Do not simply list the MotionSites homepage.
+
+Inspect the MotionSites Claude MCP integration if available in the current environment.
+
+Do not install or authorize external integrations without appropriate permission.
+
+Do not bypass subscription restrictions.
+
+Do not copy existing MotionSites prompts without adapting them.
+
+---
+
+# 10. DIRECT WEBSITE REFERENCES
+
+## Reference A — Trona
+
+https://teelstudio.com/work/trona
+
+Study:
+
+- Atmosphere.
+- Moody photography.
+- Cocktail bar identity.
+- Premium visual details.
+- Balance of emotion and functionality.
+- Editorial typography.
+
+KLINQ adaptation:
+
+Translate the venue's warm lighting, greenery and contemporary interiors into a recognizable digital atmosphere.
+
+Do not copy Trona's visual identity.
+
+## Reference B — D'YAVOL
+
+https://www.nk.studio/work/d-yavol
+
+Study:
+
+- Real-time 3D product presentation.
+- Studio lighting.
+- Reflective materials.
+- Glass and liquid appearance.
+- Cinematic camera movement.
+- Integration of product and environment.
+
+KLINQ adaptation:
+
+Build a selective dimensional glass composition that introduces the atmosphere of an evening at KLINQ.
+
+Do not reuse the bottle model, branding or 3D environment.
+
+## Reference C — Brassclub
+
+https://debut.studio/case-studies/brassclub/
+
+Study:
+
+- Premium bar navigation.
+- Typography combinations.
+- Responsive menus.
+- Practical food and drink information.
+- Restrained animations.
+
+KLINQ adaptation:
+
+Create an elegant, accessible food and beverage menu with clearly separated categories.
+
+Do not force visitors to download a PDF to view basic menu information.
+
+## Reference D — Dr. Stravinsky
+
+https://madstudio.es/en/proyecto/dr-stravinsky/
+
+https://www.drstravinsky.cat/
+
+Study:
+
+- Beverage storytelling.
+- Interactive flavour discovery.
+- Brand-specific interaction design.
+- Creative presentation of menu information.
+
+KLINQ adaptation:
+
+Develop a visually distinctive beverage explorer based on verified menu content and flavour descriptions.
+
+Do not invent flavour profiles.
+
+## Reference E — Velvet Pour
+
+https://contra.com/p/2kl6QOre-velvet-pour-an-immersive
+
+Study:
+
+- Scroll-triggered beverage animation.
+- Animated product composition.
+- Transitions between menu items.
+- Cinematic brand storytelling.
+
+KLINQ adaptation:
+
+Research a lightweight scroll-controlled pour sequence using available authentic footage or appropriate conceptual assets.
+
+---
+
+# 11. ADDITIONAL DESIGN RESEARCH
+
+Research specific examples from:
+
+https://www.awwwards.com/
+
+https://webflow.com/
+
+https://www.siteinspire.com/
+
+https://www.curated.design/
+
+https://godly.website/
+
+https://land-book.com/
+
+https://www.lapa.ninja/
+
+https://www.behance.net/
+
+https://dribbble.com/
+
+https://www.designspiration.com/
+
+https://tympanus.net/codrops/
+
+Do not restrict research to restaurant websites.
+
+Research adjacent industries:
+
+- Premium members' clubs.
+- Rooftop hotels.
+- Contemporary lifestyle brands.
+- Fashion campaign websites.
+- Music venues.
+- Luxury fragrance campaigns.
+- Event and festival websites.
+- Cinematic beverage campaigns.
+- Hospitality architectural portfolios.
+- Boutique hotels.
+- Lifestyle publications.
+
+Find at least six additional meaningful references.
+
+Select references based on their usefulness to specific sections.
+
+Record exact URLs.
+
+---
+
+# 12. COMPONENT-LEVEL RESEARCH
+
+Inspect:
+
+https://reactbits.dev/
+
+https://reactbits.dev/components/circular-gallery
+
+https://reactbits.dev/components/dome-gallery
+
+https://reactbits.dev/components/fluid-glass
+
+https://reactbits.dev/text-animations/scroll-velocity
+
+https://reactbits.dev/animations/image-trail
+
+https://ui.aceternity.com/components/3d-marquee
+
+https://ui.aceternity.com/components/tabs
+
+https://ui.aceternity.com/components/container-scroll-animation
+
+https://21st.dev/
+
+https://magicui.design/
+
+https://ui.shadcn.com/
+
+https://www.hover.dev/
+
+https://tympanus.net/codrops/
+
+Potential uses:
+
+Circular Gallery:
+
+Faces of KLINQ.
+
+Dome Gallery:
+
+Lifestyle and celebration imagery.
+
+Fluid Glass:
+
+Research refraction and optical distortion.
+
+Scroll Velocity:
+
+Selected event campaign typography.
+
+Image Trail:
+
+Optional editorial desktop interaction.
+
+3D Marquee:
+
+Selected social photography composition.
+
+Animated Tabs:
+
+Food and beverage exploration.
+
+Container Scroll:
+
+Restaurant interior transitions.
+
+shadcn/ui:
+
+Accessible interaction primitives.
+
+Do not blindly implement all these components.
+
+Prefer custom implementation when it provides stronger visual identity or better performance.
+
+Verify exact component availability and licensing.
+
+---
+
+# 13. SECTION-LEVEL REFERENCE DOCUMENT
+
+Create DESIGN_RESEARCH.md.
+
+For every major section document:
+
+- Section name.
+- Exact reference URL.
+- Observed design principle.
+- Observed motion principle.
+- Proposed adaptation.
+- Component or implementation technique.
+- Required source media.
+- Desktop behaviour.
+- Tablet behaviour.
+- Mobile behaviour.
+- Accessibility.
+- Performance implications.
+- Reference access limitations.
+
+Required mapping:
+
+Hero:
+D'YAVOL and MotionSites.
+
+Signature pour:
+MotionSites and luxury beverage campaigns.
+
+Golden-hour-to-night experience:
+Cinematic hospitality and lifestyle websites.
+
+Food:
+Editorial culinary campaigns.
+
+Beverage explorer:
+Dr. Stravinsky.
+
+Menu:
+Brassclub.
+
+Faces of KLINQ:
+Fashion editorials and React Bits.
+
+Events:
+Music venues and contemporary event websites.
+
+Venue experience:
+Trona and rooftop hospitality references.
+
+Footer:
+Original KLINQ design.
+
+Do not produce a generic reference list.
+
+---
+
+# 14. CLAUDE CODE SKILLS AND TOOLS
+
+Audit available skills and MCP servers.
+
+Use relevant available:
+
+- Taste skill.
+- Frontend design skill.
+- UI/UX design skill.
+- React skill.
+- TypeScript skill.
+- GSAP skill.
+- Three.js skill.
+- MotionSites MCP.
+- Context7.
+- Browser automation.
+- Playwright.
+- FFmpeg.
+- Blender.
+- Image optimization.
+- Lighthouse.
+- Accessibility testing.
+
+Use official technical documentation for unfamiliar APIs.
+
+Do not claim unavailable skills were used.
+
+Do not automatically install unnecessary global tooling.
+
+Do not incur paid API or generation costs without permission.
+
+---
+
+# 15. VISUAL IDENTITY
+
+Proposed palette:
+
+Midnight emerald:
+#10251C
+
+Forest green:
+#214C35
+
+Champagne ivory:
+#EDE6D5
+
+Cognac amber:
+#B76B35
+
+Muted brass:
+#B8A47A
+
+Espresso black:
+#141310
+
+Additional warm neutral:
+#D9C8AF
+
+Inspect the actual KLINQ logo and media before finalizing.
+
+Preserve the official logo.
+
+The design must reflect:
+
+- Botanical sophistication.
+- Warm ambient lighting.
+- Wood and natural materials.
+- Contemporary nightlife.
+- Premium hospitality.
+- Expressive food and beverage colours.
+
+Do not use generic black-and-gold luxury styling.
+
+Do not apply gold gradients everywhere.
+
+Do not use neon nightclub styling.
+
+Use real environmental lighting and authentic photography to establish atmosphere.
+
+---
+
+# 16. TYPOGRAPHY SYSTEM
+
+Research:
+
+- Bodoni Moda.
+- Instrument Serif.
+- Cormorant Garamond.
+- Libre Caslon Display.
+- General Sans.
+- Satoshi.
+- Manrope.
+- DM Sans.
+- Barlow Condensed.
+
+Recommended combination:
+
+Bodoni Moda or Instrument Serif for elegant campaign headlines.
+
+General Sans or Manrope for interface typography.
+
+A suitable condensed typeface for event posters, used selectively.
+
+Suggested desktop sizes:
+
+Hero:
+100–156px.
+
+Section display:
+60–96px.
+
+Secondary headings:
+28–44px.
+
+Body:
+16–18px.
+
+Suggested mobile sizes:
+
+Hero:
+48–72px.
+
+Section display:
+36–52px.
+
+Body:
+16–17px.
+
+Use fluid clamp-based typography.
+
+Create distinct editorial hierarchy.
+
+Do not make every headline oversized.
+
+Use italics for selective emphasis.
+
+Avoid overlapping typography and important media.
+
+Preserve optical alignment.
+
+---
+
+# 17. GRID SYSTEM
+
+Use a disciplined responsive grid.
+
+Desktop:
+
+12 columns.
+
+Tablet:
+
+6–8 columns as appropriate.
+
+Mobile:
+
+4 columns or natural single-column reading.
+
+Suggested gutters:
+
+Desktop:
+64–96px.
+
+Tablet:
+32–48px.
+
+Mobile:
+20–24px.
+
+Use:
+
+- Full-bleed photography.
+- Asymmetric editorial layouts.
+- Large portrait compositions.
+- Controlled negative space.
+- Horizontal photographic sequences.
+- Offset text.
+- Thin structural dividers.
+- Distinct chapter transitions.
+
+Avoid generic cards for every section.
+
+Avoid repetitive centred heading and three-card layouts.
+
+Maintain consistent alignment across the entire website.
+
+---
+
+# 18. NAVIGATION
+
+Create an elegant contemporary hospitality navigation.
+
+Suggested desktop:
+
+Left:
+
+Official KLINQ logo.
+
+Centre:
+
+The Experience.
+
+Food & Drinks.
+
+What's On.
+
+Faces of KLINQ.
+
+Right:
+
+Visit.
+
+Reserve a Table.
+
+Use actual destination routes.
+
+The desktop navbar must remain visible.
+
+Tablet:
+
+Maintain visible horizontal primary navigation.
+
+Use appropriate spacing or accessible overflow when necessary.
+
+Mobile:
+
+Logo.
+
+Accessible hamburger.
+
+Compact reservation action when space permits.
+
+Motion:
+
+Subtle active-state transition.
+
+Transparent over hero when readable.
+
+Solid emerald surface while scrolling.
+
+No exaggerated navigation animation.
+
+Do not use the same navigation appearance as previous restaurant projects.
+
+Implement:
+
+- Focus trapping.
+- Focus restoration.
+- Escape-to-close.
+- Body scroll lock.
+- Accessible expanded state.
+- Route-change cleanup.
+- Safe-area support.
+- Keyboard navigation.
+
+Keep navigation above all WebGL content.
+
+---
+
+# 19. WEBSITE ROUTES
+
+Proposed:
+
+/
+
+Homepage and flagship cinematic experience.
+
+/experience
+
+Rooftop, interior and atmosphere.
+
+/menu
+
+Food and beverage menu.
+
+/food
+
+Culinary discovery, where enough distinct content exists.
+
+/drinks
+
+Signature beverage discovery.
+
+/events
+
+Verified current events and past event gallery.
+
+/faces
+
+Faces of KLINQ lifestyle gallery.
+
+/celebrate
+
+Private celebrations, only where such services are confirmed.
+
+/gallery
+
+Curated photography and video.
+
+/visit
+
+Address, reservations and contact.
+
+Consolidate routes when content is insufficient.
+
+Avoid creating unnecessary thin pages.
+
+---
+
+# 20. HOMEPAGE NARRATIVE
+
+Design the homepage as a series of distinctive chapters.
+
+01 — The Night Is Yours.
+
+02 — From Golden Hour to After Hours.
+
+03 — The Art of the Pour.
+
+04 — A Table Worth Gathering Around.
+
+05 — Creative Cuisine.
+
+06 — The Signature Collection.
+
+07 — Faces of KLINQ.
+
+08 — What's On.
+
+09 — Above the City.
+
+10 — Celebrate Your Way.
+
+11 — Make It a KLINQ Evening.
+
+12 — Footer.
+
+Only two or three sections should contain major signature animations.
+
+Use calmer editorial sections to balance motion.
+
+---
+
+# 21. HERO EXPERIENCE
+
+Create an exceptional first viewport.
+
+Proposed headline:
+
+The night
+is yours.
+
+Alternative:
+
+An evening,
+elevated.
+
+Choose the strongest composition.
+
+Hero concept:
+
+Midnight emerald environment.
+
+Sculptural glass or authentic artistic beverage imagery.
+
+Official KLINQ identity.
+
+Large elegant headline.
+
+Warm amber lighting.
+
+Subtle depth.
+
+Immediate reservation action.
+
+Secondary menu or experience action.
+
+One location label:
+
+Viman Nagar, Pune.
+
+Avoid generic fullscreen video with centered text.
+
+Potential desktop layout:
+
+Typography occupying the left portion.
+
+Dimensional glass occupying the right or central portion.
+
+Subtle overlap between type and glass where legibility permits.
+
+Authentic venue imagery appearing as environmental context.
+
+Use atmospheric lighting rather than arbitrary gradients.
+
+The hero should communicate premium dining and hospitality immediately, not simply present a beverage product advertisement.
+
+---
+
+# 22. HERO 3D IMPLEMENTATION
+
+If suitable assets exist, create a controlled glass composition using React Three Fiber.
+
+Potential objects:
+
+- One hero glass.
+- A coherent liquid surface.
+- Ice where visually appropriate.
+- A garnish only when supported by reference imagery.
+- A minimal tabletop or pedestal.
+- Environmental lighting.
+
+Use physically appropriate materials.
+
+Research:
+
+MeshPhysicalMaterial.
+
+Transmission.
+
+IOR.
+
+Roughness.
+
+Thickness.
+
+Environment maps.
+
+Tone mapping.
+
+Realistic reflections and refraction.
+
+Avoid:
+
+- Plastic-looking glass.
+- Unnatural reflections.
+- Excessive bloom.
+- Artificial liquid colours.
+- Random garnish.
+- Distorted glass shapes.
+- Heavy particle effects.
+- Constant camera orbit.
+
+Keep pointer motion restrained.
+
+Maximum illustrative rotation:
+
+Approximately 3–6 degrees, refined visually.
+
+Use damping.
+
+Disable pointer-follow effects on touch devices.
+
+Do not present a conceptual glass as a specific real signature cocktail unless accurately reconstructed and verified.
+
+---
+
+# 23. 3D ASSET FEASIBILITY
+
+Inspect the repository for:
+
+GLB.
+
+GLTF.
+
+OBJ.
+
+FBX.
+
+BLEND.
+
+Transparent beverage imagery.
+
+Multi-angle product images.
+
+High-resolution drink photography.
+
+Actual pouring footage.
+
+Bartender reels.
+
+Choose between:
+
+A — Real-time 3D glass.
+
+B — Layered photographic composition.
+
+C — Scroll-controlled image sequence.
+
+D — Scroll-scrubbed video.
+
+E — Static hero photography.
+
+Compare:
+
+- Visual quality.
+- Brand accuracy.
+- Asset availability.
+- GPU cost.
+- Mobile performance.
+- Download cost.
+- Maintainability.
+
+Do not force real-time 3D if authentic photography looks better.
+
+Clearly document the actual technique used.
+
+---
+
+# 24. 3D MODEL PIPELINE
+
+If appropriate tooling and assets exist, research:
+
+https://www.blender.org/
+
+https://spline.design/
+
+https://www.tripo3d.ai/
+
+https://www.meshy.ai/
+
+Suggested workflow:
+
+1. Select suitable authentic beverage photography.
+2. Identify the glass geometry.
+3. Obtain suitable angle references.
+4. Create or reconstruct the geometry.
+5. Establish accurate material properties.
+6. Model simplified liquid surfaces.
+7. Optimize ice and garnish where applicable.
+8. Validate rendering quality.
+9. Optimize geometry and textures.
+10. Export GLB.
+11. Import into React Three Fiber.
+12. Test actual browser rendering.
+
+Use generated assets for concepts only where appropriate.
+
+Do not replace actual KLINQ menu photography with generated products.
+
+Do not automatically purchase assets or paid generation services.
+
+Use a photographic fallback if convincing transparent glass rendering cannot be achieved.
+
+---
+
+# 25. SIGNATURE SCROLL EXPERIENCE
+
+## THE ART OF THE POUR
+
+Create one continuous cinematic sequence.
+
+Suggested desktop duration:
+
+200–300vh, refined through testing.
+
+Stage 01 — 0% to 20%:
+
+Establish the sculptural glass.
+
+Introduce the campaign headline.
+
+Subtle camera approach.
+
+Stage 02 — 20% to 40%:
+
+Reveal the glass materials and dimensional details.
+
+Transition lighting from deep green to warm amber.
+
+Stage 03 — 40% to 60%:
+
+Introduce the pouring sequence.
+
+Use pre-rendered footage or suitable actual beverage video.
+
+Do not run expensive liquid physics in the browser.
+
+Stage 04 — 60% to 80%:
+
+Transition to authentic beverage photography and craftsmanship.
+
+Introduce culinary or dining footage.
+
+Stage 05 — 80% to 100%:
+
+Resolve into KLINQ's real restaurant atmosphere.
+
+Unpin naturally.
+
+Continue normal scrolling.
+
+Requirements:
+
+Reversible animation.
+
+Stable camera motion.
+
+No abrupt black frames.
+
+No scroll hijacking.
+
+Accessible navigation.
+
+No blocked reservation actions.
+
+The experience should connect to dining and hospitality, not encourage excessive alcohol consumption.
+
+---
+
+# 26. LIQUID MOTION TECHNIQUE
+
+Do not attempt real-time fluid simulation unless a strong technical reason exists.
+
+Preferred approaches:
+
+Authentic slow-motion pour footage.
+
+Optimized pre-rendered liquid animation.
+
+Canvas image sequence.
+
+Layered video or photographic masks.
+
+Select the technique with the best visual fidelity.
+
+For image sequences:
+
+- Load critical frames first.
+- Limit concurrent requests.
+- Use bounded memory.
+- Decode progressively.
+- Avoid full-resolution frame loading on mobile.
+- Draw only necessary frames.
+- Provide static fallbacks.
+
+For video scrubbing:
+
+- Inspect keyframe intervals.
+- Test Safari seeking.
+- Use optimized encoding.
+- Avoid redundant seek operations.
+- Preserve poster imagery.
+
+For WebGL:
+
+- Animate stable object properties.
+- Avoid frame-by-frame React state.
+- Use refs for animation progress.
+- Implement rendering cleanup.
+
+Do not combine all expensive techniques in one scene.
+
+---
+
+# 27. GOLDEN HOUR TO AFTER HOURS
+
+Create a second distinctive narrative based on KLINQ's rooftop and evening atmosphere.
+
+Use authentic media showing different lighting conditions.
+
+Potential sequence:
+
+Golden-hour outdoor seating.
+
+Warm daylight and botanical surroundings.
+
+Sunset or late-afternoon atmosphere, if available.
+
+Indoor dining illumination.
+
+Evening restaurant activity.
+
+Social gatherings.
+
+Nighttime atmosphere.
+
+Suggested visual structure:
+
+A wide cinematic stage.
+
+Editorial chapter labels.
+
+Subtle scroll-linked colour changes.
+
+Controlled photographic transitions.
+
+Headline:
+
+From golden hour
+to after hours.
+
+Do not fabricate a view of Pune's skyline.
+
+Do not artificially convert an unrelated location into KLINQ.
+
+Use only authentic venue footage for factual representation.
+
+If suitable daytime-to-nighttime footage is unavailable, use separate photographic compositions with a natural transition.
+
+---
+
+# 28. RESTAURANT EXPERIENCE SELECTOR
+
+Develop a useful venue exploration section.
+
+Possible categories:
+
+The Rooftop.
+
+The Interior.
+
+The Bar.
+
+The Social Space.
+
+Verify actual available spaces.
+
+Desktop:
+
+Left side contains the available experience names and concise verified descriptions.
+
+Right side contains a dominant image or short video.
+
+Selecting a category updates the media and description.
+
+Use crossfades, subtle depth and controlled masks.
+
+Mobile:
+
+Use accessible tabs or individual stacked editorial sections.
+
+Do not create fake seat-selection functionality.
+
+Do not imply visitors can book particular zones unless supported by the real booking system.
+
+---
+
+# 29. BOTANICAL INTERIOR STORYTELLING
+
+The KLINQ Instagram media includes greenery, warm wood, botanical details and decorative artwork.
+
+Use actual venue photography to communicate these features.
+
+Potential visual direction:
+
+Architectural photographs.
+
+Photographic foreground foliage.
+
+Subtle layered image movement.
+
+Oversized editorial text.
+
+Warm dark backgrounds.
+
+Controlled natural texture.
+
+Avoid generating fake tropical interiors.
+
+Do not introduce palm trees or exotic architectural elements that are absent from the venue.
+
+Do not overuse floral decorative elements.
+
+Allow the actual environment to establish character.
+
+---
+
+# 30. CREATIVE CUISINE SECTION
+
+Create a distinctive food exploration section.
+
+Inspect the actual menu and source media.
+
+Available imagery includes:
+
+Pizza.
+
+Dumplings and bao-style dishes.
+
+Contemporary plated food.
+
+Pasta.
+
+Sharing plates.
+
+Desserts.
+
+Chef preparation.
+
+Multicuisine dishes.
+
+Verify exact dish names.
+
+Do not infer a recipe or ingredients solely from an image.
+
+Potential composition:
+
+One large food photograph.
+
+Selected detail images.
+
+Editorial dish names.
+
+A compact food-category selector.
+
+Meaningful supporting copy.
+
+A clear menu CTA.
+
+Avoid a conventional grid of rounded food cards.
+
+Use large photography and strong editorial hierarchy.
+
+---
+
+# 31. INTERACTIVE FOOD EXPLORER
+
+Create an original food discovery interface.
+
+Possible category navigation:
+
+Small plates.
+
+Asian.
+
+From the grill.
+
+Pizza and pasta.
+
+Mains.
+
+Desserts.
+
+Derive actual categories from verified menu data.
+
+Desktop composition:
+
+Horizontal visual stage.
+
+Large selected dish.
+
+Readable category navigation.
+
+Supporting photographic details.
+
+Directional controls where useful.
+
+Potential animation:
+
+Image masks.
+
+Crossfades.
+
+Scale transitions.
+
+Editorial text movement.
+
+Ensure keyboard support.
+
+Do not require hovering.
+
+Do not automatically switch dishes while someone is reading.
+
+Mobile:
+
+Natural swipeable or stacked compositions with accessible controls.
+
+---
+
+# 32. SIGNATURE BEVERAGE EXPLORER
+
+Create a refined beverage discovery section.
+
+Use authentic drink photography and verified menu information.
+
+Do not invent names, drink ingredients or tasting notes.
+
+Potential design:
+
+A large vertical drink image.
+
+Selected drink name.
+
+Verified flavour profile.
+
+A concise description.
+
+Optional category selector.
+
+Supporting bar photography.
+
+Potential categories:
+
+Signature cocktails.
+
+Classic cocktails.
+
+Mocktails.
+
+Other beverages.
+
+Use actual menu categories.
+
+Give non-alcoholic beverages meaningful visibility.
+
+Do not assume every glass contains alcohol.
+
+Use subtle image depth rather than a separate heavy WebGL canvas.
+
+---
+
+# 33. FLAVOUR DISCOVERY INTERACTION
+
+Research Dr. Stravinsky's flavour-based interaction.
+
+If sufficient verified data exists, build a KLINQ-specific flavour explorer.
+
+Potential flavour categories:
+
+Citrus.
+
+Herbal.
+
+Fruity.
+
+Spiced.
+
+Refreshing.
+
+Use only flavour information verified by the restaurant.
+
+Allow users to select preferences.
+
+Show matching menu items.
+
+Clearly distinguish alcoholic and non-alcoholic options.
+
+Do not invent recommendations in the absence of actual data.
+
+If reliable flavour data is unavailable, implement a simpler menu category explorer.
+
+Do not introduce a fake AI recommendation system.
+
+---
+
+# 34. FOOD AND BEVERAGE MENU PAGE
+
+The menu page must prioritize usability.
+
+Use actual restaurant menu information.
+
+Published menu sources include:
+
+District.
+
+Zomato.
+
+Swiggy Dineout.
+
+Owner-provided menus.
+
+Inspect the original menu images.
+
+Validate:
+
+Dish names.
+
+Drink names.
+
+Descriptions.
+
+Prices.
+
+Dietary markers.
+
+Menu categories.
+
+Current availability where known.
+
+Design:
+
+Champagne ivory or deep emerald surface.
+
+Clear category hierarchy.
+
+Readable typography.
+
+Aligned prices.
+
+Fine editorial rules.
+
+Accessible tabs.
+
+Optional search.
+
+Selected authentic imagery.
+
+Support downloadable official PDFs only where available.
+
+Do not make PDF download mandatory.
+
+Do not fabricate menu content.
+
+Do not republish third-party menu images or complete content without appropriate rights.
+
+---
+
+# 35. FACES OF KLINQ
+
+This is a major brand-specific opportunity.
+
+The supplied Instagram posts contain a recurring Faces of KLINQ visual theme.
+
+Build a dedicated editorial lifestyle experience.
+
+Potential direction:
+
+A contemporary fashion magazine.
+
+Large portraits.
+
+Editorial captions.
+
+Social dining imagery.
+
+Celebrations.
+
+Confident contemporary typography.
+
+Potential composition:
+
+One dominant portrait.
+
+Two supporting photographs.
+
+A horizontal photography strip.
+
+Subtle dimensional image movement.
+
+Use authentic authorized photographs.
+
+Do not identify guests without permission.
+
+Do not invent their names, occupations or personal stories.
+
+Do not fabricate testimonials.
+
+Do not imply a modelling or ambassador programme unless verified.
+
+---
+
+# 36. FACES OF KLINQ INTERACTION
+
+Research:
+
+React Bits Circular Gallery.
+
+React Bits Dome Gallery.
+
+Aceternity 3D Marquee.
+
+Fashion lookbook websites.
+
+Editorial photograph galleries.
+
+Select an accessible and performant interaction.
+
+Potential implementation:
+
+A gently curved horizontal photo gallery.
+
+User-controlled movement.
+
+Selected photograph enlarges into focus.
+
+Supporting lifestyle imagery appears nearby.
+
+Provide:
+
+Keyboard controls.
+
+Touch controls.
+
+Previous and next buttons.
+
+Accessible names.
+
+Static alternative.
+
+Avoid an endlessly spinning gallery.
+
+Avoid aggressive distortion.
+
+If the main hero already uses WebGL, prefer lightweight CSS transformations for this section.
+
+---
+
+# 37. WHAT'S ON AT KLINQ
+
+Create an event-discovery section.
+
+The Instagram PDF contains weekend promotions and event-related content.
+
+Research actual current events.
+
+Do not use historical promotional posts as upcoming events.
+
+Potential editorial event structure:
+
+This Week.
+
+Weekend at KLINQ.
+
+Upcoming Experiences.
+
+Past Moments.
+
+Display verified:
+
+Event name.
+
+Date.
+
+Time.
+
+Artist name.
+
+Event imagery.
+
+Reservation method.
+
+Entry details where confirmed.
+
+Do not invent:
+
+Performances.
+
+DJs.
+
+Entry fees.
+
+Ticket availability.
+
+Guest lists.
+
+Recurring schedules.
+
+Use clear distinctions between upcoming and past events.
+
+---
+
+# 38. EVENT DATA ARCHITECTURE
+
+Create typed event data.
+
+Potential fields:
+
+id
+
+title
+
+slug
+
+description
+
+startDate
+
+endDate
+
+startTime
+
+timezone
+
+artist
+
+poster
+
+media
+
+status
+
+bookingUrl
+
+sourceUrl
+
+lastVerifiedAt
+
+Use Asia/Kolkata timezone.
+
+Derive event status carefully.
+
+Do not display expired events as upcoming.
+
+Use an events archive when appropriate.
+
+If current events cannot be verified:
+
+Provide a link to the official Instagram event announcements.
+
+Keep the website attractive without fake upcoming campaigns.
+
+Do not build an unnecessary backend.
+
+Maintain easily editable local content unless CMS integration is authorized.
+
+---
+
+# 39. EVENT VISUAL DIRECTION
+
+Create a distinct visual sub-language for events.
+
+Potential typography:
+
+Condensed uppercase campaign headings.
+
+Large date treatments.
+
+Impactful imagery.
+
+Selected amber or green background surfaces.
+
+Asymmetric poster layouts.
+
+Thin structural lines.
+
+Avoid generic event card grids.
+
+Potential interaction:
+
+An event poster changes the accompanying image or video when selected.
+
+Use meaningful controls.
+
+Do not use fast flashing nightlife effects.
+
+Do not autoplay music.
+
+Respect reduced motion.
+
+Keep event information readable and practical.
+
+---
+
+# 40. CELEBRATE AT KLINQ
+
+Investigate available private celebration and group-dining services.
+
+Potential experiences to verify:
+
+Birthdays.
+
+Anniversaries.
+
+Group dinners.
+
+Corporate gatherings.
+
+Private celebrations.
+
+Special occasions.
+
+Do not advertise services without confirmation.
+
+Potential section design:
+
+Large authentic celebration photography.
+
+Warm atmospheric lighting.
+
+Editorial headline.
+
+Short verified service descriptions.
+
+Contact-based enquiry action.
+
+Proposed headline:
+
+Make the moment yours.
+
+Do not invent event packages, rates or capacities.
+
+If no verified packages exist, use an enquiry CTA directing users to the restaurant's confirmed contact channel.
+
+---
+
+# 41. CELEBRATION ENQUIRY FLOW
+
+If real enquiry functionality is supported, implement an accessible form.
+
+Potential fields:
+
+Name.
+
+Contact information.
+
+Preferred date.
+
+Approximate group size.
+
+Occasion.
+
+Optional message.
+
+Collect only necessary information.
+
+Do not create a fake successful submission.
+
+Use an authorized backend or confirmed contact destination.
+
+If no backend exists:
+
+Provide direct phone or official messaging links instead.
+
+Do not submit real enquiries during automated testing.
+
+Validate fields appropriately.
+
+Use clear success and failure states only for actual functionality.
+
+---
+
+# 42. CHEF AND CRAFTSMANSHIP SECTION
+
+Use actual chef and bartender preparation footage.
+
+Potential media:
+
+Plating.
+
+Open-flame cooking.
+
+Food preparation.
+
+Beverage pouring.
+
+Ingredient preparation.
+
+Team interactions.
+
+Create an editorial behind-the-scenes chapter.
+
+Potential headline:
+
+The detail behind the moment.
+
+Use short authentic clips.
+
+Alternate colour and monochrome imagery where visually justified.
+
+Do not invent chef biographies.
+
+Do not assign names or roles based solely on photographs.
+
+Do not create fake awards or culinary credentials.
+
+---
+
+# 43. LIFESTYLE GALLERY
+
+Create a curated gallery experience.
+
+Potential categories:
+
+Food.
+
+Drinks.
+
+The Rooftop.
+
+The Interior.
+
+Faces.
+
+Events.
+
+Celebrations.
+
+Use verified applicable categories.
+
+Design intentional photographic compositions.
+
+Avoid randomly generated masonry.
+
+Mix portrait and landscape imagery according to visual rhythm.
+
+Implement an accessible lightbox.
+
+Support:
+
+Previous and next controls.
+
+Keyboard navigation.
+
+Escape-to-close.
+
+Focus restoration.
+
+Touch interactions.
+
+Video controls.
+
+Lazy-loaded imagery.
+
+Do not heavily distort source photographs.
+
+---
+
+# 44. FINAL RESERVATION EXPERIENCE
+
+Create a compelling but simple final section.
+
+Potential headline:
+
+Make it a KLINQ
+kind of evening.
+
+Alternative:
+
+Your evening awaits.
+
+Use authentic restaurant atmosphere or table photography.
+
+Primary CTA:
+
+Reserve a Table.
+
+Secondary CTA:
+
+Explore the Menu.
+
+Use genuine existing reservation URLs.
+
+Do not fabricate table availability.
+
+Do not create artificial urgency.
+
+Do not create a fake booking calendar.
+
+Do not require visitors to complete an animation before accessing reservations.
+
+---
+
+# 45. VISIT PAGE
+
+Display verified:
+
+KLINQ — Cocktails & Cuisine.
+
+Address.
+
+Telephone.
+
+Opening hours.
+
+Reservation options.
+
+Directions.
+
+Instagram.
+
+Available venue details.
+
+Published address:
+
+5th Floor, Town Square, Mhada Colony, New Airport Road, Near Dorabjee's, Viman Nagar, Pune, Maharashtra 411014.
+
+Published phone:
+
++91 91122 12057.
+
+Additional published phone:
+
++91 91122 12075.
+
+Published opening hours:
+
+12:30 PM to 1:00 AM.
+
+Confirm all information before launch.
+
+Use accurate map links.
+
+Do not invent parking, valet, accessibility or dress-code policies.
+
+Use click-to-load map embeds if appropriate.
+
+Keep practical information readable without loading a map.
+
+---
+
+# 46. FOOTER
+
+Create a bespoke editorial footer.
+
+Potential composition:
+
+Oversized official KLINQ logo or approved wordmark.
+
+Small location label:
+
+Viman Nagar, Pune.
+
+Brand positioning.
+
+Navigation.
+
+Food and beverage menu links.
+
+Events.
+
+Reservations.
+
+Phone.
+
+Instagram.
+
+Address.
+
+Verified opening hours.
+
+Use deep emerald background.
+
+Use champagne text.
+
+Use finely structured horizontal dividers.
+
+Avoid a generic multi-column corporate footer.
+
+Do not introduce fake social accounts or newsletter subscriptions.
+
+The ending should feel like the final frame of the evening narrative.
+
+---
+
+# 47. MEDIA INVENTORY
+
+Inspect all downloaded Instagram media.
+
+Create MEDIA_INVENTORY.md.
+
+For every usable asset record:
+
+Filename.
+
+Source.
+
+Subject.
+
+Dimensions.
+
+Aspect ratio.
+
+Duration.
+
+File size.
+
+Format.
+
+Visual quality.
+
+Potential section.
+
+Optimization requirement.
+
+Rights and permission considerations.
+
+Categorize:
+
+Brand.
+
+Food.
+
+Beverages.
+
+Cocktails.
+
+Mocktails.
+
+Interiors.
+
+Rooftop.
+
+Outdoor seating.
+
+Golden hour.
+
+Night atmosphere.
+
+People.
+
+Faces of KLINQ.
+
+Events.
+
+Celebrations.
+
+Chefs.
+
+Bartenders.
+
+Preparation.
+
+Campaign graphics.
+
+Use as many suitable authentic media assets as meaningfully possible.
+
+Do not force every asset into the homepage.
+
+Distribute media across relevant pages.
+
+Avoid repeating the same imagery unnecessarily.
+
+---
+
+# 48. IMAGE PROCESSING
+
+Implement:
+
+WebP or AVIF.
+
+Responsive image variants.
+
+srcset.
+
+sizes.
+
+Explicit dimensions.
+
+Accurate aspect ratios.
+
+Appropriate loading priorities.
+
+Lazy loading.
+
+Mobile-specific crops.
+
+Descriptive alt text.
+
+Preserve natural skin tones.
+
+Preserve authentic food colours.
+
+Do not excessively darken photographs.
+
+Do not overcompress fine glass reflections or restaurant lighting.
+
+Keep original media unchanged.
+
+Store optimized versions separately.
+
+---
+
+# 49. VIDEO PROCESSING
+
+Use FFmpeg where available.
+
+Inspect original videos before editing.
+
+Extract meaningful segments:
+
+2–4 seconds for visual detail.
+
+5–10 seconds for cinematic loops.
+
+Longer clips only when justified.
+
+Optimize:
+
+Resolution.
+
+Bitrate.
+
+Frame rate.
+
+Codec.
+
+Fast-start playback.
+
+Keyframe intervals.
+
+Poster images.
+
+Loop continuity.
+
+Seek behaviour.
+
+Remove audio from decorative autoplay videos.
+
+Use muted inline playback.
+
+Pause media when off-screen.
+
+Avoid multiple simultaneous high-resolution video streams.
+
+Do not preload the complete video library.
+
+Respect original media rights.
+
+---
+
+# 50. AI-GENERATED VISUAL ELEMENTS
+
+Use generated assets selectively.
+
+Potential acceptable elements:
+
+Abstract environment textures.
+
+Conceptual glass models.
+
+Non-representational reflections.
+
+Artistic background layers.
+
+Decorative light studies.
+
+Original conceptual transition frames.
+
+Do not generate replacements for:
+
+Actual guests.
+
+Actual restaurant interiors.
+
+Actual chefs.
+
+Actual menu photographs.
+
+Actual event artists.
+
+Actual rooftop views.
+
+Do not present synthetic images as genuine KLINQ photography.
+
+Maintain asset provenance records.
+
+Generated visuals must contribute to the creative direction rather than introduce arbitrary visual effects.
+
+---
+
+# 51. THREE.JS AND REACT THREE FIBER
+
+Official documentation:
+
+https://threejs.org/docs/
+
+https://r3f.docs.pmnd.rs/
+
+https://drei.docs.pmnd.rs/
+
+Use:
+
+three
+
+@react-three/fiber
+
+@react-three/drei
+
+Install only if real-time 3D is justified.
+
+Implement:
+
+Lazy-loaded scenes.
+
+Suspense.
+
+Error boundaries.
+
+Static poster fallback.
+
+Stable camera.
+
+Correct lighting.
+
+Physically appropriate glass materials.
+
+Correct colour management.
+
+Optimized texture loading.
+
+Capability-dependent rendering.
+
+WebGL context-loss handling.
+
+Resource cleanup.
+
+Keep semantic content outside the canvas.
+
+The website must remain fully practical without WebGL.
+
+---
+
+# 52. 3D PERFORMANCE BUDGET
+
+Initial targets:
+
+Compressed hero model:
+
+Approximately 1–3 MB where feasible.
+
+Textures:
+
+Primarily 1K.
+
+Selective 2K where justified.
+
+Desktop DPR:
+
+Cap around 1.5.
+
+Mobile DPR:
+
+Approximately 1 where necessary.
+
+Optimize:
+
+Geometry.
+
+Textures.
+
+Draw calls.
+
+Shadow complexity.
+
+Environment reflections.
+
+Transmission rendering cost.
+
+Post-processing.
+
+Investigate:
+
+Meshopt.
+
+Draco.
+
+KTX2.
+
+Reusable materials.
+
+Geometry instancing.
+
+Avoid expensive real-time caustic simulation.
+
+Use pre-rendered reflection or lighting techniques where appropriate.
+
+Measure actual rendering performance.
+
+Do not compromise visual quality unnecessarily merely to satisfy an arbitrary asset-size limit.
+
+---
+
+# 53. WEBGL RESOURCE MANAGEMENT
+
+Avoid unnecessary React re-renders.
+
+Do not update React state every animation frame.
+
+Use refs for:
+
+Scroll progress.
+
+Pointer movement.
+
+Camera transforms.
+
+Object rotation.
+
+Scene interpolation.
+
+Maintain stable geometry and materials.
+
+Suspend unnecessary animation loops when off-screen.
+
+Use demand rendering where appropriate.
+
+Ensure proper invalidation during motion.
+
+Clean up:
+
+GSAP timelines.
+
+ScrollTriggers.
+
+Animation frames.
+
+Observers.
+
+Event listeners.
+
+Video resources.
+
+Owned textures.
+
+Owned materials.
+
+Owned geometry.
+
+Do not dispose shared cached resources while still in use.
+
+Test repeated route changes and scene remounts.
+
+Measure memory behaviour.
+
+---
+
+# 54. GSAP MOTION SYSTEM
+
+Use:
+
+https://gsap.com/docs/v3/
+
+https://gsap.com/docs/v3/Plugins/ScrollTrigger/
+
+Use @gsap/react where appropriate.
+
+Implement:
+
+Scoped timelines.
+
+Responsive matchMedia configurations.
+
+Reversible scroll sequences.
+
+Controlled pinning.
+
+Media masks.
+
+Image transitions.
+
+Typography animation.
+
+Camera movement.
+
+Section colour changes.
+
+Navigation microinteractions.
+
+Avoid duplicate animations.
+
+Use correct lifecycle cleanup.
+
+Refresh ScrollTrigger after relevant layout changes.
+
+Do not permanently hide content if animation initialization fails.
+
+---
+
+# 55. LENIS SMOOTH SCROLLING
+
+Use Lenis.
+
+https://lenis.darkroom.engineering/
+
+Integrate properly with GSAP.
+
+Use one coordinated animation frame loop.
+
+Support:
+
+Natural scrolling.
+
+Anchor navigation.
+
+Keyboard scrolling.
+
+Focus movement.
+
+Nested scrolling.
+
+Mobile navigation.
+
+Route transitions.
+
+Browser history.
+
+Scroll restoration.
+
+Reduced-motion mode.
+
+Avoid excessive smoothing.
+
+Do not implement scroll hijacking.
+
+Ensure pinned sections remain stable during viewport resizing.
+
+---
+
+# 56. MOTION HIERARCHY
+
+Define three motion levels.
+
+Level 1 — Signature experiences:
+
+Dimensional hero.
+
+The Art of the Pour.
+
+Golden-hour-to-night transition.
+
+Level 2 — Editorial motion:
+
+Food image transitions.
+
+Faces of KLINQ gallery.
+
+Event poster transitions.
+
+Interior photography reveals.
+
+Typography.
+
+Level 3 — Functional microinteractions:
+
+Navigation.
+
+Buttons.
+
+Tabs.
+
+Menu categories.
+
+Dialogs.
+
+Reservation links.
+
+Recommended timings:
+
+Functional:
+150–250ms.
+
+Editorial:
+400–800ms.
+
+Signature:
+Scroll-controlled.
+
+Avoid excessive animation.
+
+Create periods of visual stillness.
+
+Do not animate every headline, icon and photograph.
+
+---
+
+# 57. TECHNOLOGY STACK
+
+Use the existing repository.
+
+Preferred:
+
+React.
+
+Vite.
+
+TypeScript.
+
+React Router where required.
+
+GSAP.
+
+ScrollTrigger.
+
+Lenis.
+
+Three.js where justified.
+
+React Three Fiber where justified.
+
+Drei where justified.
+
+Lucide.
+
+CSS custom properties.
+
+shadcn/ui selectively.
+
+React Bits selectively.
+
+Do not introduce multiple competing animation libraries.
+
+Avoid unnecessary state-management frameworks.
+
+Do not migrate the framework.
+
+Do not create an unnecessary backend.
+
+Use compatible dependency versions.
+
+---
+
+# 58. APPLICATION ARCHITECTURE
+
+Suggested structure:
+
+src/app
+
+src/components
+
+src/features/home
+
+src/features/experience
+
+src/features/food
+
+src/features/drinks
+
+src/features/menu
+
+src/features/events
+
+src/features/faces
+
+src/features/celebrations
+
+src/features/gallery
+
+src/features/visit
+
+src/features/motion
+
+src/features/three
+
+src/data
+
+src/styles
+
+src/hooks
+
+src/lib
+
+src/types
+
+Potential components:
+
+Header
+
+DesktopNavigation
+
+MobileNavigation
+
+HeroExperience
+
+HeroGlassScene
+
+GlassModel
+
+SceneFallback
+
+PourSequence
+
+GoldenHourExperience
+
+VenueExplorer
+
+FoodExplorer
+
+BeverageExplorer
+
+FlavorSelector
+
+MenuNavigation
+
+FacesEditorial
+
+LifestyleGallery
+
+EventsEditorial
+
+EventPoster
+
+CelebrationExperience
+
+CraftFilm
+
+ReservationCTA
+
+VisitDetails
+
+Footer
+
+Keep content separate from presentation.
+
+Use typed data models.
+
+Centralize design tokens.
+
+Avoid duplicated components and duplicated business information.
+
+---
+
+# 59. GLOBAL DESIGN TOKENS
+
+Define semantic CSS custom properties for:
+
+Backgrounds.
+
+Foregrounds.
+
+Surfaces.
+
+Accent colours.
+
+Text.
+
+Muted text.
+
+Borders.
+
+Focus indicators.
+
+Typography.
+
+Spacing.
+
+Container sizes.
+
+Gutters.
+
+Radius.
+
+Motion timing.
+
+Easing.
+
+Z-index.
+
+Media overlays.
+
+Use consistent design tokens across routes.
+
+Avoid scattered arbitrary CSS values.
+
+Maintain an organized global stylesheet architecture.
+
+Prevent duplicated styling across components.
+
+Do not create excessively large monolithic CSS files.
+
+---
+
+# 60. LOADING EXPERIENCE
+
+Do not create a blocking fullscreen loader.
+
+Immediately display:
+
+Official logo.
+
+Navigation.
+
+Hero headline.
+
+Hero poster.
+
+Reservation action.
+
+Menu action.
+
+Load the advanced scene progressively.
+
+Keep the static hero visible until the advanced visual is ready.
+
+Avoid black frames.
+
+Avoid layout shifts.
+
+If a model or video fails, retain the attractive poster composition.
+
+Do not block the website because decorative media fails.
+
+Use clear loading states for actual interactive content.
+
+---
+
+# 61. RESPONSIVE REQUIREMENTS
+
+Test:
+
+320px.
+
+360px.
+
+375px.
+
+390px.
+
+414px.
+
+430px.
+
+600px.
+
+768px.
+
+820px.
+
+1024px.
+
+1280px.
+
+1440px.
+
+1920px.
+
+2560px.
+
+Desktop and tablet:
+
+Visible navigation.
+
+Mobile:
+
+Accessible hamburger.
+
+Independently adapt:
+
+Hero typography.
+
+Glass composition.
+
+Canvas sizes.
+
+Camera position.
+
+Scroll timelines.
+
+Events.
+
+Food menus.
+
+Lifestyle gallery.
+
+Venue exploration.
+
+Reservations.
+
+Footer.
+
+Prevent:
+
+Horizontal overflow.
+
+Clipped headings.
+
+Unintended image cropping.
+
+Overlapping content.
+
+Unnecessary whitespace.
+
+Broken scroll pinning.
+
+Canvas intercepting user interactions.
+
+The mobile website must be independently art-directed.
+
+---
+
+# 62. MOBILE EXPERIENCE
+
+Prefer:
+
+Lightweight photography.
+
+Short optimized videos.
+
+Static glass posters.
+
+Natural scrolling.
+
+Small image-mask transitions.
+
+Accessible category navigation.
+
+Large usable touch targets.
+
+Avoid:
+
+Long pinned sequences.
+
+Expensive real-time liquid rendering.
+
+Rotating canvases.
+
+Pointer-dependent effects.
+
+Continuous background animation.
+
+Test representative mid-range Android devices and iPhones where possible.
+
+Ensure the menu, events, visit and reservation information remain immediately accessible.
+
+---
+
+# 63. ACCESSIBILITY
+
+Follow WCAG 2.2 AA principles.
+
+Implement:
+
+Semantic landmarks.
+
+Logical heading hierarchy.
+
+Skip-to-content navigation.
+
+Keyboard support.
+
+Visible focus states.
+
+Meaningful alt text.
+
+Accessible navigation.
+
+Accessible dialogs.
+
+Accessible tabs.
+
+Video controls.
+
+Appropriate contrast.
+
+Reduced-motion preferences.
+
+Do not communicate important content only through canvas.
+
+Do not require hover.
+
+Do not require animation completion.
+
+Avoid autoplay audio.
+
+Provide appropriate pause controls.
+
+Ensure event information remains readable.
+
+Ensure reservations work without WebGL.
+
+---
+
+# 64. PERFORMANCE TARGETS
+
+Target:
+
+Lighthouse Performance:
+90+.
+
+Accessibility:
+95+.
+
+Best Practices:
+95+.
+
+SEO:
+95+.
+
+LCP:
+2.5 seconds or less.
+
+CLS:
+0.1 or less.
+
+Field INP:
+200ms or less.
+
+Animation:
+
+Approaching 60 FPS on appropriate hardware.
+
+These are targets, not guaranteed outcomes.
+
+Measure actual production performance.
+
+Record:
+
+Initial JavaScript bundle.
+
+Deferred WebGL bundle.
+
+Initial image payload.
+
+Video payload.
+
+Model size.
+
+Texture size.
+
+Main-thread activity.
+
+Frame stability.
+
+GPU cost.
+
+Memory usage.
+
+Lighthouse results.
+
+Do not fabricate measurements.
+
+Distinguish laboratory measurements from real-user field data.
+
+---
+
+# 65. CAPABILITY-BASED RENDERING
+
+Define sensible rendering tiers.
+
+High capability:
+
+Dimensional hero.
+
+Full cinematic experience.
+
+Appropriate lighting.
+
+Medium capability:
+
+Lower pixel ratio.
+
+Simplified materials.
+
+Reduced effects.
+
+Low capability:
+
+Static photography.
+
+Lightweight CSS motion.
+
+Native scrolling where appropriate.
+
+Reduced-motion mode:
+
+Static compositions.
+
+Immediate information.
+
+No scroll-controlled camera.
+
+No unnecessary parallax.
+
+All practical features preserved.
+
+Avoid device-quality detection based solely on screen width.
+
+Test actual runtime performance.
+
+---
+
+# 66. LOCAL SEO
+
+Research relevant verified search themes.
+
+Potential examples:
+
+KLINQ Pune.
+
+Restaurants in Viman Nagar.
+
+Rooftop dining in Pune.
+
+Fine dining in Viman Nagar.
+
+Restaurants with live music in Pune.
+
+Cocktails and cuisine in Pune.
+
+Rooftop restaurants near New Airport Road.
+
+Use:
+
+Unique page titles.
+
+Meta descriptions.
+
+Semantic headings.
+
+Canonical URLs.
+
+Open Graph metadata.
+
+Sitemap.
+
+Robots configuration.
+
+Restaurant structured data.
+
+Meaningful internal links.
+
+Descriptive image metadata.
+
+Event structured data only for confirmed eligible events.
+
+Do not invent reviews, ratings, prices or opening hours.
+
+Keep the independent concept preview private or restricted from indexing until publication is authorized.
+
+---
+
+# 67. SECURITY AND PRIVACY
+
+Do not expose API keys.
+
+Do not collect unnecessary personal information.
+
+Do not introduce unauthorized analytics.
+
+Do not implement fake reservations.
+
+Do not implement fake payment flows.
+
+Use safe external links.
+
+Validate form data if real forms exist.
+
+Do not submit actual reservations or enquiries during tests.
+
+Respect guest photography privacy and permissions.
+
+Do not republish private media.
+
+Maintain appropriate preview access restrictions.
+
+Comply with applicable venue policies and age-related requirements for any alcohol-specific information.
+
+---
+
+# 68. ANTI-AI-SLOP REQUIREMENTS
+
+Strictly avoid:
+
+Generic restaurant templates.
+
+Generic black-and-gold themes.
+
+Purple gradients.
+
+Neon nightclub effects.
+
+Random floating spheres.
+
+Unnecessary particle systems.
+
+Excessive glassmorphism.
+
+Generic rounded cards.
+
+Repeated three-column grids.
+
+Excessive pill badges.
+
+Overused animated headings.
+
+Fake cocktail photography.
+
+Fake guest portraits.
+
+Fake rooftop views.
+
+Fabricated testimonials.
+
+Invented events.
+
+Artificial countdowns.
+
+Generic stock hospitality images.
+
+Excessive WebGL.
+
+Fake reservation systems.
+
+Unrealistic glass materials.
+
+Prioritize:
+
+Distinct KLINQ art direction.
+
+Authentic hospitality photography.
+
+Elegant typography.
+
+Warm atmospheric illumination.
+
+Botanical sophistication.
+
+Social lifestyle storytelling.
+
+Meaningful dimensional experiences.
+
+Editorial event design.
+
+Precise alignment.
+
+Excellent spacing.
+
+Responsive layouts.
+
+Useful menus.
+
+Genuine reservations.
+
+Maintainable production engineering.
+
+The website must look custom-designed, not assembled from fashionable AI-generated components.
+
+---
+
+# 69. BROWSER-BASED VISUAL REVIEW
+
+Run the actual website.
+
+Use Playwright or available browser automation.
+
+Capture:
+
+Desktop initial hero.
+
+Hero with advanced scene loaded.
+
+25% signature sequence.
+
+50% signature sequence.
+
+75% signature sequence.
+
+100% signature sequence.
+
+Reverse-scroll states.
+
+Golden-hour transition.
+
+Venue explorer.
+
+Food experience.
+
+Beverage explorer.
+
+Faces of KLINQ.
+
+Current events.
+
+Past events.
+
+Menu.
+
+Gallery.
+
+Visit page.
+
+Desktop navigation.
+
+Tablet navigation.
+
+Mobile navigation.
+
+Footer.
+
+Inspect screenshots at minimum:
+
+1440px desktop.
+
+820px tablet.
+
+390px mobile.
+
+Correct all major visual issues.
+
+Do not rely exclusively on source code inspection.
+
+---
+
+# 70. TECHNICAL TESTING
+
+Test:
+
+All routes.
+
+Navigation.
+
+External reservation links.
+
+Phone links.
+
+Directions.
+
+Menu categories.
+
+Menu filters.
+
+Beverage explorer.
+
+Event status logic.
+
+Gallery interaction.
+
+Celebration enquiry flow, if present.
+
+Mobile navigation.
+
+Keyboard navigation.
+
+Reduced motion.
+
+WebGL unavailable.
+
+Context loss.
+
+Model loading failure.
+
+Video failure.
+
+Image failure.
+
+Slow network.
+
+Fast scrolling.
+
+Reverse scrolling.
+
+Repeated route navigation.
+
+Browser resizing.
+
+Device orientation.
+
+Background tabs.
+
+Resource cleanup.
+
+Run:
+
+TypeScript checks.
+
+ESLint.
+
+Production build.
+
+Playwright.
+
+Accessibility testing.
+
+Lighthouse.
+
+Test Chromium, Firefox and WebKit where available.
+
+Do not claim tests passed unless executed.
+
+---
+
+# 71. THREE VISUAL REFINEMENT PASSES
+
+Pass 1 — Art direction.
+
+Review:
+
+Brand identity.
+
+Typography.
+
+Photography.
+
+Editorial layout.
+
+Originality.
+
+Colour.
+
+Social lifestyle.
+
+Hospitality atmosphere.
+
+Pass 2 — Cinematic and dimensional quality.
+
+Review:
+
+Glass materials.
+
+Reflections.
+
+Lighting.
+
+Camera movement.
+
+Pour sequence.
+
+Scene continuity.
+
+Motion timing.
+
+Golden-hour transitions.
+
+Gallery interactions.
+
+Pass 3 — Production quality.
+
+Review:
+
+Responsiveness.
+
+Accessibility.
+
+SEO.
+
+Functionality.
+
+Performance.
+
+Memory.
+
+Resource cleanup.
+
+Browser compatibility.
+
+Loading failures.
+
+Do not accept the first generated implementation.
+
+Use actual rendered screenshots to improve the website.
+
+---
+
+# 72. IMPLEMENTATION PHASES
+
+Phase 1 — Discovery.
+
+Inspect repository.
+
+Inspect PDF.
+
+Analyze all authentic assets.
+
+Verify business information.
+
+Phase 2 — Reference research.
+
+MotionSites.
+
+Trona.
+
+D'YAVOL.
+
+Brassclub.
+
+Dr. Stravinsky.
+
+Velvet Pour.
+
+Additional specific references.
+
+Phase 3 — Creative direction.
+
+Choose visual identity.
+
+Establish typography.
+
+Define editorial system.
+
+Plan all routes.
+
+Phase 4 — Static foundation.
+
+Build navigation.
+
+Build hero poster.
+
+Build homepage.
+
+Build practical menu and visit pages.
+
+Phase 5 — Dimensional prototype.
+
+Test glass rendering independently.
+
+Compare real-time 3D and photographic approaches.
+
+Choose the strongest technique.
+
+Phase 6 — Cinematic motion.
+
+Implement signature pour sequence.
+
+Implement golden-hour narrative.
+
+Integrate GSAP and Lenis.
+
+Phase 7 — Lifestyle content.
+
+Implement Faces of KLINQ.
+
+Events.
+
+Celebrations.
+
+Venue exploration.
+
+Gallery.
+
+Phase 8 — Optimization.
+
+Compress media.
+
+Optimize bundles.
+
+Optimize rendering.
+
+Implement fallbacks.
+
+Phase 9 — Quality assurance.
+
+Browser inspection.
+
+Responsive testing.
+
+Accessibility.
+
+Performance.
+
+Functional testing.
+
+Phase 10 — Final refinement.
+
+Fix major issues.
+
+Run production build.
+
+Document actual results.
+
+Do not let unavailable 3D assets block the complete website.
+
+---
+
+# 73. DOCUMENTATION
+
+Create concise:
+
+BUSINESS_RESEARCH.md
+
+DESIGN_RESEARCH.md
+
+DESIGN_DIRECTION.md
+
+DESIGN_SYSTEM.md
+
+MEDIA_INVENTORY.md
+
+3D_ASSET_PIPELINE.md
+
+MOTION_SYSTEM.md
+
+EVENT_CONTENT_GUIDE.md
+
+PERFORMANCE_REPORT.md
+
+QA_REPORT.md
+
+Record:
+
+Verified facts.
+
+Unverified details.
+
+Reference sources.
+
+Creative decisions.
+
+Media provenance.
+
+Actual implementation technique.
+
+Event maintenance strategy.
+
+Fallback behaviour.
+
+Actual measurements.
+
+Actual testing outcomes.
+
+Remaining limitations.
+
+Avoid unnecessary documentation duplication.
+
+---
+
+# 74. SOCIAL MEDIA SHOWCASE READINESS
+
+Prepare the website for a future Codevirel Studio showcase.
+
+Format:
+
+9:16.
+
+1080 × 1920.
+
+35–50 seconds.
+
+Suggested sequence:
+
+0–4 seconds:
+
+KLINQ identity and hero.
+
+4–10 seconds:
+
+Dimensional glass.
+
+10–16 seconds:
+
+Signature cinematic pour.
+
+16–22 seconds:
+
+Golden-hour-to-night transformation.
+
+22–27 seconds:
+
+Food experience.
+
+27–33 seconds:
+
+Faces of KLINQ.
+
+33–38 seconds:
+
+Events and venue imagery.
+
+38–43 seconds:
+
+Mobile website and reservations.
+
+43–48 seconds:
+
+Codevirel Studio concept attribution.
+
+Use actual browser recordings.
+
+Do not fake website interactions.
+
+Do not sacrifice website usability to make the showcase video visually impressive.
+
+---
+
+# 75. INDEPENDENT PROPOSAL REQUIREMENTS
+
+This is an independent website concept created by Codevirel Studio.
+
+Do not imply KLINQ commissioned, approved or officially launched the website unless confirmed.
+
+Preserve the original KLINQ brand identity.
+
+Do not introduce Codevirel branding into KLINQ's official logo.
+
+Keep previews appropriately restricted.
+
+Obtain required permissions before publication.
+
+Distinguish creative proposals from factual business information.
+
+---
+
+# 76. FINAL DELIVERABLES
+
+Deliver:
+
+Complete React + Vite website.
+
+Original KLINQ art direction.
+
+Responsive design system.
+
+Premium desktop and mobile navigation.
+
+Cinematic hospitality hero.
+
+Meaningful dimensional glass experience where feasible.
+
+The Art of the Pour sequence.
+
+Golden-hour-to-night narrative.
+
+Venue experience explorer.
+
+Food discovery.
+
+Beverage discovery.
+
+Accessible menu.
+
+Faces of KLINQ.
+
+Current and historical events architecture.
+
+Celebration information where confirmed.
+
+Authentic gallery.
+
+Genuine reservations.
+
+Visit page.
+
+Optimized photographs.
+
+Optimized videos.
+
+GSAP integration.
+
+Lenis integration.
+
+WebGL fallbacks.
+
+Reduced-motion support.
+
+SEO foundation.
+
+Accessibility.
+
+Production build.
+
+Actual test results.
+
+Actual performance measurements.
+
+Desktop screenshots.
+
+Tablet screenshots.
+
+Mobile screenshots.
+
+Research documentation.
+
+Known limitations.
+
+---
+
+# 77. FINAL ACCEPTANCE CRITERIA
+
+The website is complete only when:
+
+It has a distinct KLINQ visual identity.
+
+It does not resemble EVO, ALT BY SYAH or earlier restaurant projects.
+
+The official logo is preserved.
+
+Rooftop hospitality is clearly communicated.
+
+The visual experience includes people, cuisine, beverages and atmosphere.
+
+The dimensional scene is visually convincing.
+
+The implemented technique is accurately documented.
+
+No fake beverage or venue imagery is presented as authentic.
+
+The motion is meaningful and controlled.
+
+The navigation works on all devices.
+
+Desktop and tablet navigation remain visible.
+
+Mobile navigation is accessible.
+
+The website remains practical without WebGL.
+
+Important information does not depend on animation.
+
+Menu information is accurate.
+
+Current events are genuinely current.
+
+Past events are clearly identified.
+
+Reservations use real destinations.
+
+No restaurant information has been fabricated.
+
+The visual design does not look like an AI-generated template.
+
+Responsive layouts are polished.
+
+Performance is measured.
+
+Resource cleanup is verified.
+
+Accessibility is tested.
+
+Production build succeeds.
+
+Remaining limitations are documented.
+
+---
+
+# 78. FINAL EXECUTION COMMAND
+
+Begin by inspecting the supplied Instagram PDF and every relevant downloaded media asset.
+
+Research KLINQ independently.
+
+Verify the published menu, venue, reservation and event information.
+
+Go deep into MotionSites.ai.
+
+Inspect real 3D websites, cinematic beverage campaigns, luxury hospitality references, social club websites and premium event experiences.
+
+Inspect the specified project case studies.
+
+Use relevant installed Claude Code skills and browser tools.
+
+Select actual reference components and document why each is suitable.
+
+Develop an original KLINQ visual identity.
+
+Build the complete static website foundation first.
+
+Prototype the dimensional glass experience.
+
+Select real-time 3D, layered photography, image sequences or optimized video according to actual visual quality and asset availability.
+
+Implement the flagship cinematic sequence.
+
+Create the golden-hour-to-night narrative.
+
+Build authentic food, beverage, social lifestyle, events and rooftop experiences.
+
+Make reservation access practical.
+
+Optimize assets and rendering.
+
+Use GSAP and Lenis with a disciplined motion hierarchy.
+
+Build independently designed mobile and tablet experiences.
+
+Run the website.
+
+Inspect the actual browser output.
+
+Perform three refinement passes.
+
+Test functionality.
+
+Test accessibility.
+
+Measure performance.
+
+Fix significant visual and technical problems.
+
+Validate the production build.
+
+Do not stop at planning.
+
+Do not stop after creating a hero.
+
+Do not stop after adding animations.
+
+Complete the entire production-quality website.
+
+The experience should feel like a premium lifestyle campaign, a rooftop hospitality destination and an exceptional interactive website working together.
+
+KLINQ.
+
+Cocktails & Cuisine.
+
+The night is yours.
